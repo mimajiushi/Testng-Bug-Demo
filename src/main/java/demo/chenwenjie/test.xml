@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Fail Test Suite">
+
+    <test name="test case" >
+        <classes>
+            <class name="demo.chenwenjie.testcase.FailTest" />
+        </classes>
+    </test>
+</suite>

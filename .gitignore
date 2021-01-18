@@ -1,0 +1,6 @@
+*.idea
+/target/
+/test-output/
+*.uml
+*.iml
+*.DS_Store
