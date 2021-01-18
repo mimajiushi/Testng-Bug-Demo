@@ -11,7 +11,7 @@ public class TestngRetry extends RetryAnalyzerCount {
 
     public TestngRetry() {
         // set retry count
-        setCount(10);
+        setCount(3);
     }
 
     @Override
